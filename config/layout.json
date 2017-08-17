@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "item": "item1",
+      "width": 1,
+      "height": 2,
+      "style": "dark",
+      "type": "persona",
+      "detail": {
+         "name": "John Smith",
+         "age": "55",
+         "gender": "male"
+      },
+      "display": true
+    },
+    {
+      "item": "item2",
+      "width": 1,
+      "height": 1,
+      "style": "light",
+      "type": "persona",
+      "detail": {
+         "name": "Jane Doe",
+         "age": "45",
+         "gender": "female"
+      },
+      "display": true
+    },
+    {
+      "item": "item3",
+      "width": 1,
+      "height": 1,
+      "style": "light",
+      "type": "persona",
+      "detail": {
+         "name": "Ric Flair",
+         "age": "65",
+         "gender": "Male"
+      },
+      "display": true
+    },
+    {
+      "item": "item4",
+      "width": 1,
+      "height": 1,
+      "style": "dark",
+      "type": "persona",
+      "detail": {
+         "name": "Paul Bunyan",
+         "age": "70",
+         "gender": "Male"
+      },
+      "display": true
+    },
+    {
+      "item": "item5",
+      "width": 2,
+      "height": 2,
+      "style": "dark",
+      "type": "measures",
+      "detail": {
+         "date": "08/25/2017",
+         "location": "Big Poppa Clinic"
+      },
+      "measures": [
+        {"measure": "info 1"},
+        {"measure": "info 2"},
+        {"measure": "info 3"}
+      ],
+      "display": true
+    },
+    {
+      "item": "item6",
+      "width": 1,
+      "height": 2,
+      "style": "light",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item7",
+      "width": 2,
+      "height": 1,
+      "style": "light",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item8",
+      "width": 2,
+      "height": 2,
+      "style": "dark",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item9",
+      "width": 1,
+      "height": 1,
+      "style": "dark",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item10",
+      "width": 1,
+      "height": 1,
+      "style": "light",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item11",
+      "width": 1,
+      "height": 1,
+      "style": "light",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item12",
+      "width": 1,
+      "height": 2,
+      "style": "dark",
+      "type": "text",
+      "display": true
+    },
+    {
+      "item": "item13",
+      "width": 2,
+      "height": 2,
+      "style": "light",
+      "type": "text",
+      "display": true
+    }
+  ]
+}
